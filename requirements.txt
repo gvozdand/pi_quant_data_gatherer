@@ -1,0 +1,17 @@
+
+
+polars
+pandas
+numpy
+yfinance
+sqlite3
+
+
+
+
+
+
+
+
+
+
